@@ -26,8 +26,11 @@ Posee 3 modelos, Registo, Sucursal y Reservacion.
 Rutas:
 
 /127.0.0.1:8000/Resto/ para visualizar el inicio y busqueda de reservaciones
+
 /127.0.0.1:8000/Resto/nueva_sucursal/ para seleccionar una sucursal y agregarla a la BD
+
 /127.0.0.1:8000/Resto/registrar_cliente/ para su registro dentro de la website
+
 /127.0.0.1:800/Resto/nueva_reserva/ para generar una reserva 
 
 En el buscador del Navbar se pueden buscar las reservas generadas
