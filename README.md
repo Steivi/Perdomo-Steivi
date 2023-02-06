@@ -31,7 +31,7 @@ Rutas:
 
 /127.0.0.1:8000/Resto/registrar_cliente/ para su registro dentro de la website
 
-/127.0.0.1:800/Resto/nueva_reserva/ para generar una reserva 
+/127.0.0.1:8000/Resto/nueva_reserva/ para generar una reserva 
 
 En el buscador del Navbar se pueden buscar las reservas generadas
 
